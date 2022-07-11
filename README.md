@@ -10,13 +10,13 @@ The zip package provides a fast and simple zip operations.
 - One solution to all zip operations using golang
 
 ## Tech
-
-Dillinger uses a number of open source projects to work properly:
-
+```
 - golang >= 1.17
-
+```
 ## Installation
+```
 go get -u github.com/sdpsagarpawar/zip
+```
 ## Uses
 
 ```sh
