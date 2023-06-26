@@ -1,4 +1,4 @@
-module repos/zip
+module github.com/sdpsagarpawar/zip
 
 go 1.17
 
